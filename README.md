@@ -1,5 +1,5 @@
 # LegionY700-GSI-Fix
-Lenovo Legion Y700にGSIを導入した場合に便利なMagiskモジュールです。
+Lenovo Legion Y700にGSIを導入した場合に便利なMagiskモジュールです。（Android 12L/13で確認済み）
 
 以下の機能を備えています。
 ・自動輝度調整を有効化
