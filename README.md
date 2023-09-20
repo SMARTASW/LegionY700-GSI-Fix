@@ -9,4 +9,4 @@ Lenovo Legion Y700にGSIを導入した場合に便利なMagiskモジュール�
 
 
 詳細は以下の記事を御覧ください。
-https://smartasw.com/archives/15560#index_id21
+https://smartasw.com/archives/15560#index_id22
