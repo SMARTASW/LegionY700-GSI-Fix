@@ -6,9 +6,5 @@ Lenovo Legion Y700にGSIを導入した場合に便利なMagiskモジュール�
 ・自動輝度調整を有効化<br>
 ・ゲームモード切替キーを有効化（割当は上がFocus、下がCameraキー）<b>※2</b><br>
 
-　※1：顔認証は、「ZUI 14」をベースとしている状態では効果がありません。（<a href="https://smartasw.com/archives/15560#index_id0">詳細</a>）
-　※2：ゲームモード切替キーは、モジュール導入後、ButtonMapperなどで好みの機能を割り当てることが可能です。
-
-
-詳細は以下の記事を御覧ください。
-https://smartasw.com/archives/15560#index_id22
+　※1：顔認証は、「ZUI 14」をベースとしている状態では効果がありません。（<a href="https://smartasw.com/archives/15560#index_id0">詳細</a>）<br>
+　※2：ゲームモード切替キーは、モジュール導入後、ButtonMapperなどで好みの機能を割り当てることが可能です。（<a href="https://smartasw.com/archives/15560#index_id22">詳細</a>）
