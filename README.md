@@ -1,5 +1,6 @@
 # LegionY700-GSI-Fix
-Lenovo Legion Y700にGSIを導入した場合に便利なMagiskモジュールです。（Android 13で確認済み）
+Lenovo Legion Y700(2022/SD870)にGSIを導入した場合に便利なMagiskモジュールです。（Android 13で確認済み）
+※Legion Y700(2023/SD8+Gen1)では使用できません。
 
 以下の機能を備えています。<br>
 ・crDroidなどの一部のカスタムROMで顔認証が使用できない問題を修正（v1.1）<b>※1</b><br>
